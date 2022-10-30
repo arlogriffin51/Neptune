@@ -66,7 +66,7 @@ Launch the launcher.bat file.
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Rdmo1/Neptune
+$ git clone https://github.com/arlogriffin51/Neptune
 $ python3 -m pip install -r requirements.txt
 $ python3 neptune.py
 ```
@@ -75,23 +75,3 @@ $ python3 neptune.py
 General Informations:
 > Find your output files in the output folder 📁
 > If you find any malfunction, contact me on Discord: Rdmo1#1389
-
-## Tutorial 🔦
-- ⚒️ do you want tutorial? you can watch [here](https://streamable.com/s5de26)
-
-## Multi Tool Crashing? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1>
-
-> try to reinstall python, if not work contact me on discord!: Rdmo1#1389
-
-> You probably have python 3.10 which has some new shit so downgrade to [python 3.9](https://www.python.org/downloads/release/python-397/)
-
-## Python was not Found? <img src="https://cdn3.emoji.gg/emojis/7277_green_flame.gif" width="30px"/>
-</h1>
-
-> Getting this Error? You probably just installed python
-
-> How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps to fix it :>
-
-
-
